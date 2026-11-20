@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "edition": "campania_amr_atlas",
+  "source_id": "ar_iss_2024_campania",
+  "period": 2024,
+  "geography": "Campania",
+  "scope": "isolati da sangue e liquor; sorveglianza AR-ISS",
+  "coverage": {
+    "value_percent": 52.4,
+    "denominator": "giornate di degenza per ricoveri ordinari per acuti; SDO dimessi 2023",
+    "limitations": "non corregge per gravità; considera i laboratori che hanno inviato emocolture e/o liquor; la Campania partecipa con la propria rete regionale; nel 2024 i referenti campani elencati coprono 24 presidi (tra cui Cotugno, Federico II, Pascale, Cardarelli, Santobono e Pausillipon, Vanvitelli, Ospedale del Mare, Loreto Mare a Napoli; Ruggi di Salerno; Sant'Anna e San Sebastiano di Caserta; Rummo di Benevento; Moscati di Avellino; PO di Castellammare, Nola, Pozzuoli, Giugliano, Frattamaggiore, Ischia, Nocera Inferiore); serie con dati dal 2015"
+  },
+  "indicators": [
+    {
+      "code": "MRSA",
+      "pathogen": "Staphylococcus aureus",
+      "resistance": "meticillina",
+      "isolates": 992,
+      "resistant": 311,
+      "percent": 31.4,
+      "ci95": "28.5-34.3"
+    },
+    {
+      "code": "VRE-faecium",
+      "pathogen": "Enterococcus faecium",
+      "resistance": "vancomicina",
+      "isolates": 479,
+      "resistant": 121,
+      "percent": 25.3,
+      "ci95": "21.4-29.4"
+    },
+    {
+      "code": "CREC",
+      "pathogen": "Escherichia coli",
+      "resistance": "cefalosporine di terza generazione",
+      "isolates": 1232,
+      "resistant": 468,
+      "percent": 38.0,
+      "ci95": "35.3-40.8"
+    },
+    {
+      "code": "CRKP",
+      "pathogen": "Klebsiella pneumoniae",
+      "resistance": "carbapenemi",
+      "isolates": 907,
+      "resistant": 281,
+      "percent": 31.0,
+      "ci95": "28.0-34.1"
+    },
+    {
+      "code": "CRPA",
+      "pathogen": "Pseudomonas aeruginosa",
+      "resistance": "carbapenemi",
+      "isolates": 420,
+      "resistant": 69,
+      "percent": 16.4,
+      "ci95": "13.0-20.3"
+    },
+    {
+      "code": "CRAS",
+      "pathogen": "Acinetobacter species",
+      "resistance": "carbapenemi",
+      "isolates": 441,
+      "resistant": 393,
+      "percent": 89.1,
+      "ci95": "85.8-91.9"
+    }
+  ],
+  "trend_note": "Serie 2015-2024 nell'Appendice A: MRSA 35,4% (2015) -> 45,9% (2018) -> 31,4% (2024); VRE-faecium 1,4% (2015) -> 26,9% (2022) -> 25,3% (2024); CREC 44,5% (2015) -> 38,0% (2024); CRKP 54,4% (2015) -> 31,0% (2024); CRPA 34,5% (2015) -> 16,4% (2024); CRAS 91,4% (2015) -> 89,1% (2024). Il numero di isolati cresce nel tempo con l'allargamento della rete: le variazioni riflettono anche la composizione dei laboratori.",
+  "license": "CC BY 4.0 (Note legali ISS, valide anche per EpiCentro: https://www.iss.it/contatti ; https://www.epicentro.iss.it/chi-siamo/disclaimer)",
+  "source": {
+    "title": "AR-ISS: sorveglianza nazionale dell Antibiotico-Resistenza. Dati 2024",
+    "report": "RIS-5/2025",
+    "table": "Tabella 1 (copertura, p. 12) e Appendice A, Regione Campania (p. 42 a stampa, p. 50 del PDF); referenti dei laboratori p. 2",
+    "url": "https://www.epicentro.iss.it/antibiotico-resistenza/ar-iss/RIS-5_2025.pdf",
+    "acquired_at": "2026-11-20",
+    "sha256": "50174DC846E19C6EAD2EA4D55982FC098487251A5EDAB8D484D6101B31482F0F"
+  }
+}
