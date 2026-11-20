@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "edition": "campania_amr_atlas",
+  "records": [
+    {
+      "id": "ar_iss_2024_campania",
+      "title": "AR-ISS 2024 - Campania",
+      "publisher": "Istituto Superiore di Sanita",
+      "evidence_type": "human_amr_regional",
+      "geography": "Campania",
+      "period": "2024",
+      "source_url": "https://www.epicentro.iss.it/antibiotico-resistenza/ar-iss/RIS-5_2025.pdf",
+      "data_file": "public/data/ar_iss_2024_campania.json",
+      "publication_status": "public_approved",
+      "license": "CC BY 4.0",
+      "note": "Copertura 52,4%, rete regionale con 24 presidi referenti. MRSA 31,4% (311/992), VRE-faecium 25,3% (121/479), CREC 38,0% (468/1.232), CRKP 31,0% (281/907), CRPA 16,4% (69/420), CRAS 89,1% (393/441); nessun downscaling a provincia o struttura.",
+      "attribution": "Istituto Superiore di Sanità"
+    },
+    {
+      "id": "aifa_opendata_2024_campania_j01",
+      "title": "AIFA Open Data 2024 - Campania, antibatterici J01",
+      "publisher": "Agenzia Italiana del Farmaco",
+      "evidence_type": "human_antimicrobial_use",
+      "geography": "Campania",
+      "period": "2024",
+      "source_url": "https://www.aifa.gov.it/documents/20142/847578/dati2024_04.12.2025.csv",
+      "data_file": "public/data/aifa_opendata_2024_campania_j01.json",
+      "publication_status": "public_approved",
+      "license": "CC BY 4.0",
+      "note": "Convenzionata 9.606.055 confezioni, 77,20 milioni di euro; acquisti diretti 1.098.947 confezioni, 20,59 milioni di euro. Consumo, non resistenza.",
+      "attribution": "Agenzia Italiana del Farmaco"
+    },
+    {
+      "id": "sirear_2022_campania",
+      "title": "Si.Re.Ar. 2022 - Campania (rete regionale antibiotico-resistenza)",
+      "publisher": "Regione Campania",
+      "evidence_type": "human_amr_regional",
+      "geography": "Campania",
+      "period": "2022",
+      "source_url": "https://www.regione.campania.it/sites/default/assets/asset/documents/rapporto-sirear-2022-con-isbn.pdf",
+      "data_file": "public/data/sirear_2022_campania.json",
+      "publication_status": "public_approved",
+      "license": "Riuso non commerciale con citazione e copyleft (note legali Regione Campania; equivalente CC BY-NC-SA)",
+      "note": "24 laboratori. Sangue e liquor: oxacillina-R S. aureus 33,3% (911), vancomicina-R E. faecium 27,1% (469), cefotaxima-R E. coli 39,2% (875), meropenem-R K. pneumoniae 33,7% (671), P. aeruginosa 20,6% (399), A. baumannii 93,8% (465). Consumo convenzionata 19,5 DDD/1000 ab die. Dati 2022, non confrontabili direttamente con AR-ISS 2024.",
+      "attribution": "Regione Campania",
+      "share_alike_note": "Riuso non commerciale con citazione della fonte e copyleft (equivalente CC BY-NC-SA). Dati 2022, non confrontabili direttamente con AR-ISS 2024."
+    }
+  ]
+}

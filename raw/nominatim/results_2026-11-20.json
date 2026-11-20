@@ -1,0 +1,312 @@
+{
+ "queried": "2026-11-20",
+ "user_agent": "CodexVitae-AMR-atlas/1.0 (info@codexvitae.it)",
+ "params": "countrycodes=it, format=jsonv2, limit=3, 1 richiesta ogni 1,1 s",
+ "results": {
+  "Policlinico Federico II, Via Sergio Pansini, Napoli": [],
+  "Azienda Ospedaliera Universitaria Luigi Vanvitelli, Piazza Luigi Miraglia, Napoli": [],
+  "Ospedale Monaldi, Napoli": [
+   {
+    "place_id": 416888654,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1512950495,
+    "lat": "40.8699666",
+    "lon": "14.2100466",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 0.24782860043147328,
+    "addresstype": "amenity",
+    "name": "Ospedale Vincenzo Monaldi",
+    "display_name": "Ospedale Vincenzo Monaldi, Strada Comunale Guantai ad Orsolone, Santa Croce, Municipalità 8, Napoli, Campania, 80131, Italia",
+    "boundingbox": [
+     "40.8682523",
+     "40.8716878",
+     "14.2077111",
+     "14.2127510"
+    ]
+   }
+  ],
+  "Ospedale San Giovanni di Dio e Ruggi d'Aragona, Salerno": [],
+  "Azienda Ospedaliera Sant'Anna e San Sebastiano, Caserta": [],
+  "Policlinico Federico II Napoli": [
+   {
+    "place_id": 80686528,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 37330011,
+    "lat": "40.8703321",
+    "lon": "14.2191868",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 0.26124069590558274,
+    "addresstype": "amenity",
+    "name": "Azienda Ospedaliera Universitaria Federico II",
+    "display_name": "Azienda Ospedaliera Universitaria Federico II, Via Gaetano Quagliarello, Santa Croce, Municipalità 8, Napoli, Campania, 80131, Italia",
+    "boundingbox": [
+     "40.8653882",
+     "40.8752646",
+     "14.2155168",
+     "14.2226738"
+    ]
+   }
+  ],
+  "Policlinico Vanvitelli Napoli": [],
+  "Ruggi d'Aragona Salerno": [
+   {
+    "place_id": 80951801,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5927318972,
+    "lat": "40.6780851",
+    "lon": "14.7620163",
+    "category": "tourism",
+    "type": "hostel",
+    "place_rank": 30,
+    "importance": 6.946135652700111e-05,
+    "addresstype": "tourism",
+    "name": "Salerno Costa D'Amalfi Suite",
+    "display_name": "Salerno Costa D'Amalfi Suite, 25, Via Giovanni Ruggi d'Aragona, Salerno, Campania, 84122, Italia",
+    "boundingbox": [
+     "40.6780351",
+     "40.6781351",
+     "14.7619663",
+     "14.7620663"
+    ]
+   }
+  ],
+  "Ospedale Sant'Anna e San Sebastiano Caserta": [],
+  "Azienda Ospedaliera Universitaria Federico II": [
+   {
+    "place_id": 80601217,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 37330011,
+    "lat": "40.8703321",
+    "lon": "14.2191868",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 0.26124069590558274,
+    "addresstype": "amenity",
+    "name": "Azienda Ospedaliera Universitaria Federico II",
+    "display_name": "Azienda Ospedaliera Universitaria Federico II, Via Gaetano Quagliarello, Santa Croce, Municipalità 8, Napoli, Campania, 80131, Italia",
+    "boundingbox": [
+     "40.8653882",
+     "40.8752646",
+     "14.2155168",
+     "14.2226738"
+    ]
+   }
+  ],
+  "Università della Campania Luigi Vanvitelli Piazza Miraglia Napoli": [],
+  "ospedale San Giovanni di Dio e Ruggi d'Aragona": [],
+  "ospedale Largo Città di Ippocrate Salerno": [],
+  "ospedale civile Caserta Via Palasciano": [
+   {
+    "place_id": 80586819,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8647873324,
+    "lat": "41.1063947",
+    "lon": "14.2125145",
+    "category": "healthcare",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 6.544670786598028e-05,
+    "addresstype": "healthcare",
+    "name": "Ospedale Civile \"Palasciano\"",
+    "display_name": "Ospedale Civile \"Palasciano\", Via Edoardo Palasciano, Capua, Caserta, Campania, 81043, Italia",
+    "boundingbox": [
+     "41.1063447",
+     "41.1064447",
+     "14.2124645",
+     "14.2125645"
+    ]
+   }
+  ],
+  "Sant'Anna e San Sebastiano": [
+   {
+    "place_id": 81804258,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 48981486,
+    "lat": "43.8452915",
+    "lon": "10.5021313",
+    "category": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.0534021660181582,
+    "addresstype": "residential",
+    "name": "Via San Sebastiano",
+    "display_name": "Via San Sebastiano, Sant'Anna, Monte San Quirico, Lucca, Toscana, 55100, Italia",
+    "boundingbox": [
+     "43.8452415",
+     "43.8453487",
+     "10.5018297",
+     "10.5023552"
+    ]
+   },
+   {
+    "place_id": 54437415,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 168430934,
+    "lat": "37.7806151",
+    "lon": "13.7129986",
+    "category": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05338960173952846,
+    "addresstype": "residential",
+    "name": "Via San Sebastiano",
+    "display_name": "Via San Sebastiano, Sant'Anna, Alia, Palermo, Sicilia, 90021, Italia",
+    "boundingbox": [
+     "37.7802254",
+     "37.7809894",
+     "13.7126431",
+     "13.7133380"
+    ]
+   },
+   {
+    "place_id": 54143766,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 112974540,
+    "lat": "37.5765474",
+    "lon": "13.2218510",
+    "category": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05338841153582052,
+    "addresstype": "residential",
+    "name": "Via San Sebastiano",
+    "display_name": "Via San Sebastiano, Sant'Anna, Caltabellotta, Agrigento, Sicilia, 92010, Italia",
+    "boundingbox": [
+     "37.5764405",
+     "37.5767350",
+     "13.2212318",
+     "13.2224485"
+    ]
+   }
+  ],
+  "Ospedale Ruggi Salerno": [
+   {
+    "place_id": 80263572,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 671759035,
+    "lat": "40.6490286",
+    "lon": "14.8289198",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 0.31877743112977514,
+    "addresstype": "amenity",
+    "name": "San Giovanni di Dio Ruggi d'Aragona",
+    "display_name": "San Giovanni di Dio Ruggi d'Aragona, Via San Leonardo, San Leonardo, Salerno, Campania, 84131, Italia",
+    "boundingbox": [
+     "40.6474219",
+     "40.6506145",
+     "14.8244156",
+     "14.8311313"
+    ]
+   },
+   {
+    "place_id": 81837490,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 125750067,
+    "lat": "40.6820019",
+    "lon": "14.7661092",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 6.946135652700111e-05,
+    "addresstype": "amenity",
+    "name": "O.O. R.R. S. Giovanni di Dio e Ruggi D'Aragona",
+    "display_name": "O.O. R.R. S. Giovanni di Dio e Ruggi D'Aragona, Via Michele Vernieri, Salerno, Campania, 84125, Italia",
+    "boundingbox": [
+     "40.6816751",
+     "40.6823754",
+     "14.7654551",
+     "14.7666742"
+    ]
+   }
+  ],
+  "Azienda Ospedaliera Caserta": [
+   {
+    "place_id": 80644438,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1284873335,
+    "lat": "41.0870832",
+    "lon": "14.3376668",
+    "category": "landuse",
+    "type": "construction",
+    "place_rank": 24,
+    "importance": 0.08006586633096816,
+    "addresstype": "construction",
+    "name": "Ampliamento Azienda Ospedaliera di Caserta",
+    "display_name": "Ampliamento Azienda Ospedaliera di Caserta, Puccianiello, San Leucio, Caserta, Campania, Italia",
+    "boundingbox": [
+     "41.0866708",
+     "41.0875033",
+     "14.3360109",
+     "14.3386856"
+    ]
+   },
+   {
+    "place_id": 80283157,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 175762581,
+    "lat": "41.0869813",
+    "lon": "14.3336646",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 6.586633096813943e-05,
+    "addresstype": "amenity",
+    "name": "Azienda Ospedaliera di Caserta Sant'Anna e San Sebastiano",
+    "display_name": "Azienda Ospedaliera di Caserta Sant'Anna e San Sebastiano, 1, Via Ferdinando Palasciano, Rione Tescione, Aldifreda, San Leucio, Caserta, Campania, 81100, Italia",
+    "boundingbox": [
+     "41.0860472",
+     "41.0880966",
+     "14.3313619",
+     "14.3360131"
+    ]
+   }
+  ],
+  "Policlinico Luigi Vanvitelli": [],
+  "Vanvitelli, Napoli, ospedale": [],
+  "San Giovanni di Dio Salerno ospedale": [],
+  "Piazza Luigi Miraglia, Napoli": [
+   {
+    "place_id": 423894767,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 277852493,
+    "lat": "40.8497934",
+    "lon": "14.2534302",
+    "category": "highway",
+    "type": "pedestrian",
+    "place_rank": 26,
+    "importance": 0.05341426947432666,
+    "addresstype": "pedestrian",
+    "name": "Piazza Luigi Miraglia",
+    "display_name": "Piazza Luigi Miraglia, San Lorenzo, Municipalità 4, Napoli, Campania, 80130, Italia",
+    "boundingbox": [
+     "40.8496149",
+     "40.8499711",
+     "14.2530735",
+     "14.2536687"
+    ]
+   }
+  ],
+  "Policlinico Napoli centro storico": [],
+  "Azienda Ospedaliera Universitaria Università della Campania": []
+ }
+}

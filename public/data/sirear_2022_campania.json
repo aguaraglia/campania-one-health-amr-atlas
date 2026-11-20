@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "edition": "campania_amr_atlas",
+  "source_id": "sirear_2022_campania",
+  "period": 2022,
+  "geography": "Campania",
+  "scope": "Rete regionale Si.Re.Ar., 24 laboratori ospedalieri pubblici; isolati da sangue e liquor (colonna «Sangue e liquor» delle Tabelle 13-20); % R secondo EUCAST, isolati ridondanti a 30 giorni eliminati",
+  "indicators": [
+    {
+      "code": "MRSA",
+      "pathogen": "Staphylococcus aureus",
+      "antibiotic": "oxacillina",
+      "isolates_tested": 911,
+      "percent_R": 33.3,
+      "ci95": "30.2-36.3"
+    },
+    {
+      "code": "VRE-faecium",
+      "pathogen": "Enterococcus faecium",
+      "antibiotic": "vancomicina",
+      "isolates_tested": 469,
+      "percent_R": 27.1,
+      "ci95": "23.1-31.1"
+    },
+    {
+      "code": "CREC",
+      "pathogen": "Escherichia coli",
+      "antibiotic": "cefotaxima",
+      "isolates_tested": 875,
+      "percent_R": 39.2,
+      "ci95": "36.0-42.4"
+    },
+    {
+      "code": "CRKP",
+      "pathogen": "Klebsiella pneumoniae",
+      "antibiotic": "meropenem",
+      "isolates_tested": 671,
+      "percent_R": 33.7,
+      "ci95": "30.1-37.3"
+    },
+    {
+      "code": "CRPA",
+      "pathogen": "Pseudomonas aeruginosa",
+      "antibiotic": "meropenem",
+      "isolates_tested": 399,
+      "percent_R": 20.6,
+      "ci95": "16.6-24.5"
+    },
+    {
+      "code": "CRAS",
+      "pathogen": "Acinetobacter baumannii complex",
+      "antibiotic": "meropenem",
+      "isolates_tested": 465,
+      "percent_R": 93.8,
+      "ci95": "91.6-96.0"
+    }
+  ],
+  "antibiotic_use": {
+    "label": "Consumo di antibatterici J01, farmaceutica convenzionata",
+    "ddd_per_1000_inhabitants_day": {
+      "2019": 20.3,
+      "2022": 19.5
+    },
+    "note": "Cap. 1 del rapporto; il canale DPC è molto minore. Tabella 1: betalattamine 6,44, fluorochinoloni 2,40, cefalosporine di III generazione 2,45 DDD/1000 ab die nel 2022."
+  },
+  "limitations": "Dati 2022, non 2024. Antibiotico marcatore e criteri della rete regionale, non identici agli indicatori AR-ISS: non confrontare direttamente con ar_iss_2024_campania. Nessun dato per provincia o per laboratorio riportato in questo file (la Tabella 3 per laboratorio è un'immagine nel PDF).",
+  "license": "Riuso consentito con citazione della fonte, non a scopo di lucro e nel rispetto del copyleft (note legali del Portale Regione Campania, https://www.regione.campania.it/note-legali: «Tutto il materiale presente sul Portale può essere liberamente riprodotto, parzialmente o integralmente e modificato purché non a scopo di lucro e nel rispetto del Copyleft. La citazione della fonte è sempre obbligatoria»). Equivalente pratico a CC BY-NC-SA; il PDF non riporta una licenza propria.",
+  "attribution": "Fonte: Regione Campania, Direzione Generale Tutela della Salute, Rapporto 2022 sull'antibiotico resistenza rilevati nelle strutture pubbliche del Sistema Sanitario della Campania (Si.Re.Ar.), ISBN 9788831204170, https://www.regione.campania.it",
+  "source": {
+    "title": "Rapporto 2022 sull'antibiotico resistenza rilevati nelle strutture pubbliche del Sistema Sanitario della Campania",
+    "publisher": "Regione Campania",
+    "url": "https://www.regione.campania.it/sites/default/assets/asset/documents/rapporto-sirear-2022-con-isbn.pdf",
+    "landing": "https://www.regione.campania.it/aree-tematiche/sanita/farmaci-farmacie-dispositivi-medici/farmaci/antibiotico-resistenza-ed-infezioni-correlate-all-assistenza",
+    "acquired_at": "2026-11-20",
+    "sha256": "FF548F2AD6F7F814710C00C3BA2F9A02E2B62F3C3FDD9B9D90C8542E3DC28327"
+  }
+}

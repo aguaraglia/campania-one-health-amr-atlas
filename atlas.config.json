@@ -1,0 +1,36 @@
+{
+  "id": "campania_amr_atlas",
+  "regionCode": "CAM",
+  "regionName": "Campania",
+  "title": "Campania One Health AMR Atlas",
+  "shortName": "Campania One Health",
+  "brandIcon": "public/brand/campania-region-mark.svg",
+  "language": "it",
+  "publisher": "Codex Vitae ETS",
+  "dataStatusLabel": "Letteratura scientifica aggiornata il 20 novembre 2026 (91 studi). Cinque strutture georiferite: Vanvitelli 12, Federico II 5, Monaldi 3, Ruggi d'Aragona 15, AORN Sant'Anna e San Sebastiano 1. Napoli 41 studi, Salerno 20, Caserta 2, Caserta e Salerno 1, Avellino 1, Benevento 0, 26 a scala regionale sul contorno. Fonti istituzionali: AR-ISS 2024 (copertura 52,4%, 24 presidi, CC BY 4.0), AIFA Open Data 2024 J01 (CC BY 4.0) e Si.Re.Ar. 2022 (riuso non commerciale con attribuzione, equivalente CC BY-NC-SA; dati 2022 non confrontabili con AR-ISS 2024).",
+  "literaturePlacePhrase": "alla Campania",
+  "publicScopeSummary": "Confini ISTAT 2026 letti in UTF-8 (550 comuni, 5 unità sovracomunali di cui la Città metropolitana di Napoli, regione 15); AR-ISS 2024 (CC BY 4.0; copertura 52,4%, rete regionale con 24 presidi); AIFA Open Data 2024, antibatterici J01 (CC BY 4.0); Si.Re.Ar. 2022 della Regione Campania (riuso non commerciale con attribuzione e copyleft, equivalente CC BY-NC-SA; dati 2022 non confrontabili direttamente con AR-ISS 2024); 5 strutture nominate georiferite con Nominatim (ODbL); letteratura scientifica del 20 novembre 2026 (91 studi: 36 strutture, 18 comuni, 11 province, 26 regionali). dati.regione.campania.it, ICAAROweb, le ASL, l'ARPAC, il catalogo open data dell'IZSM e il PDF OsMed sono esclusi. L'IZS del Mezzogiorno copre Campania e Calabria: entrano solo gli studi che separano i dati campani. Il segnaposto indica il luogo dello studio, non una prevalenza. Le aree vuote indicano nessuna evidenza pubblicata. Napoli 41 studi, Salerno 20, Caserta 2, Caserta e Salerno 1, Avellino 1, Benevento 0.",
+  "map": {
+    "center": [
+      40.83,
+      14.85
+    ],
+    "zoom": 8
+  },
+  "overviewLiteratureLabel": "studi sulla mappa",
+  "provinceOutlines": {
+    "file": "public/geography/atlas_provinces.geojson",
+    "labels": {
+      "Caserta": "Caserta · 2 studi",
+      "Benevento": "Benevento · 0 studi",
+      "Napoli": "Napoli · 41 studi",
+      "Avellino": "Avellino · 1 studio",
+      "Salerno": "Salerno · 20 studi"
+    }
+  },
+  "catalogs": {
+    "layers": "public/data/layer-catalog.json",
+    "evidence": "public/data/evidence-catalog.json",
+    "literature": "public/data/literature-catalog.json"
+  }
+}
